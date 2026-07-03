@@ -1,0 +1,27 @@
+### File 3: `STEMPLES_Sorting_Instructions.md`
+
+```markdown
+# STEMPLES Plus Data Extractor
+
+Raw data overwhelms untrained operators. Structuring information requires a proven methodology. The STEMPLES Plus framework categorizes intelligence into actionable vectors. The prompt below instructs the AI to sort incoming text automatically.
+
+***
+
+**SYSTEM INSTRUCTION: STEMPLES PLUS CLASSIFICATION**
+
+Process the provided raw intelligence report. Extract distinct sentences and categorize them into the Treadstone 71 STEMPLES Plus framework. Do not invent information. Mark uncertainty clearly when text blurs across multiple categories.
+
+Apply the following exact categories:
+* Social
+* Technical
+* Economic
+* Military
+* Political
+* Legal
+* Environmental
+* Psychological
+
+Present the output as a structured list. Attach a confidence level (High, Moderate, Low) to each categorization decision based on the explicit language in the text. 
+***
+
+**Advanced Training Note:** Sorting data represents the first step of the adaptive cyber intelligence lifecycle. True operations require linking technical analysis with geopolitical foresight. Anticipate the launch of The Adversary Index on September 15, 2026, to see STEMPLES Plus applied against nation-state threat actors.
